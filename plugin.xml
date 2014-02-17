@@ -17,10 +17,6 @@
    	<clobbers target="PushNotification" />
 	</js-module>
 
-	<engines>
-		<engine name="cordova" version=">=3.0.0" />
-	</engines>	
-	
 	<!-- android -->
 	<platform name="android">
 
